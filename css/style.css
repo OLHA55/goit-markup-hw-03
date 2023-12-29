@@ -200,7 +200,6 @@ button.hero-button {
   letter-spacing: 0.02em;
   padding-bottom: 2px;
   margin-bottom: 8px;
-  margin: 0;
 }
 .particularrity-item-text {
   box-sizing: border-box;
@@ -336,6 +335,7 @@ button.hero-button {
   padding: 32px 16px;
   width: 360px;
   border: 1px solid #e7e9fc;
+  border-top: none;
 }
 .portfolio-item-title {
   display: flex;
