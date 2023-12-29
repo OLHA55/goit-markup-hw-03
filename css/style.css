@@ -93,9 +93,9 @@ img {
 }
 .hero {
   width: 1158px;
-  padding: 180px 0;
   background: var(--NAVY-BLUE, #2e2f42);
   margin-left: 15px;
+  padding: 180px 0;
 }
 .container {
   width: 1158px;
