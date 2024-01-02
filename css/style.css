@@ -357,7 +357,7 @@ button.hero-button {
 .footer-container {
   width: 1158px;
 }
-.footer-logo {
+.footer-logo-link {
   color: var(--IRIS, #4d5ae5);
   font-family: Raleway;
   font-size: 18px;
@@ -371,7 +371,7 @@ button.hero-button {
   text-decoration: none;
   box-sizing: border-box;
 }
-.footer-logo-link {
+.header-nav-logo-light {
   display: inline-block;
   font-family: Raleway;
   font-size: 18px;
