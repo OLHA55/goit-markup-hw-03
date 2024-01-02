@@ -93,7 +93,7 @@ img {
 }
 .hero {
   background: var(--NAVY-BLUE, #2e2f42);
-  padding: 188px 0; 
+  padding: 188px 0;
 }
 .container {
   width: 1158px;
@@ -249,7 +249,7 @@ button.hero-button {
   box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
     0px 1px 1px 0px rgba(46, 47, 66, 0.16),
     0px 1px 6px 0px rgba(46, 47, 66, 0.08);
-    background-color: #fff;
+  background-color: #fff;
 }
 .team-item-card {
   display: block;
@@ -350,6 +350,7 @@ button.hero-button {
   padding: 100px 0;
   background: var(--NAVY-BLUE, #2e2f42);
   box-sizing: border-box;
+}
 .container {
   width: 1158px;
 }
@@ -372,12 +373,11 @@ button.hero-button {
 }
 .footer-logo-link {
   display: inline-block;
-   font-family: Raleway;
+  font-family: Raleway;
   font-size: 18px;
   font-style: normal;
   color: #f4f4fd;
   margin-bottom: 16px;
-
 }
 .footer-text {
   color: var(--CLOUD, #f4f4fd);
