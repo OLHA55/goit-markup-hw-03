@@ -111,7 +111,7 @@ img {
   line-height: 1.07; /* 107.143% */
   letter-spacing: 0.02em;
   max-width: 496px;
-  margin-bottom: 40px;
+  margin-bottom: 48px;
   margin: 0 auto;
 }
 .hero-button:hover,
@@ -156,6 +156,7 @@ button.hero-button {
 .particularrity-container {
   box-sizing: border-box;
   margin: 0 15px;
+  margin: 0 auto;
 }
 .particularrity-title,
 .visually-hidden {
@@ -378,7 +379,6 @@ button.hero-button {
   font-size: 18px;
   font-style: normal;
   color: #f4f4fd;
-  margin-bottom: 16px;
 }
 .footer-text {
   color: var(--CLOUD, #f4f4fd);
