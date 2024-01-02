@@ -358,7 +358,7 @@ button.hero-button {
   width: 1158px;
 }
 .footer-logo-link {
-  cdisplay: inline-block;
+  display: inline-block;
   color: var(--IRIS, #4d5ae5);
   font-family: Raleway;
   font-size: 18px;
